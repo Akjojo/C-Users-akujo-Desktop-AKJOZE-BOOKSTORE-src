@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+footer p pt-3{
+    display: inline-flex;
+}
